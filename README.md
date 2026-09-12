@@ -5,7 +5,7 @@
 
 *Specializing in High-Fidelity 3D Digital Twins, Robotics Kinematics, and Intelligent Machine Learning Systems.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/smsman/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SSea-man)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sseaman211067@bscse.uiu.ac.bd)
 [![Location](https://img.shields.io/badge/Location-Dhaka,_Bangladesh-informational?style=for-the-badge&logo=google-maps&logoColor=white)](https://maps.google.com)
