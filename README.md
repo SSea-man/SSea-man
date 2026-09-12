@@ -15,7 +15,7 @@ My work spans high-performance browser-native **3D digital twins**, multi-agent 
 
 - **Digital Twins & Simulation**: Browser-native 60 FPS physics engines, deterministic multi-agent A* routing, and spatial campus modeling.
 - **Robotics & Kinematics**: Embedded control, thruster vectoring, and flight operations telemetry (PX4 / MAVLink).
-- **Affiliations**: Department of Computer Science & Engineering, United International University (UIU) • UIU AURA Crew Robotics.
+- **Affiliations**: Department of Computer Science & Engineering, United International University (UIU) 
 
 ---
 
